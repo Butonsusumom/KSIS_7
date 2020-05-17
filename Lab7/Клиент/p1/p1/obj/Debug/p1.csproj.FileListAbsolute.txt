@@ -1,0 +1,21 @@
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\bin\Debug\p1.exe.config
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\bin\Debug\p1.exe
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\bin\Debug\p1.pdb
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\obj\Debug\p1.exe
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\obj\Debug\p1.pdb
+C:\2курс2сем\КСИС\Лаба5\Клиент\p1\p1\obj\Debug\p1.csprojResolveAssemblyReference.cache
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\bin\Debug\p1.exe.config
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\bin\Debug\p1.exe
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\bin\Debug\p1.pdb
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\obj\Debug\p1.csprojResolveAssemblyReference.cache
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\obj\Debug\p1.exe
+C:\2курс2сем\КСИС\Лаба7\Клиент\p1\p1\obj\Debug\p1.pdb
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\bin\Debug\p1.exe.config
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\bin\Debug\p1.exe
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\bin\Debug\p1.pdb
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\obj\Debug\p1.csprojAssemblyReference.cache
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\obj\Debug\p1.exe
+C:\Users\KSU\4 семестр\KSIS_lab7-master\Клиент\p1\p1\obj\Debug\p1.pdb
