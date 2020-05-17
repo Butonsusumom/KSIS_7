@@ -1,0 +1,21 @@
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\bin\Debug\p0.exe.config
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\bin\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\bin\Debug\p0.pdb
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.csprojResolveAssemblyReference.cache
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.pdb
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\bin\Debug\p0.exe.config
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\bin\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\bin\Debug\p0.pdb
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\obj\Debug\p0.csprojResolveAssemblyReference.cache
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\obj\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба7\Сервер2\p0\p0\obj\Debug\p0.pdb
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\bin\Debug\p0.exe.config
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\bin\Debug\p0.exe
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\bin\Debug\p0.pdb
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\obj\Debug\p0.csprojAssemblyReference.cache
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\obj\Debug\p0.exe
+c:\Users\KSU\4 семестр\KSIS_lab7-master\Сервер2\p0\p0\obj\Debug\p0.pdb
